@@ -6,8 +6,6 @@
 
 ## GAMEPLAY:
 
-<img align="left" width="100" height="100" src='./Images/iconfinder_16-Marketing_Strategy_3213289.png'>
-
 In this case, **the milestones are question number 4 and number 7**.
 The minimum possible points reach the final questions is therefore 2.
 If you lose the fourth question, you leave the game with zero points, even if you answered correctly before this. Answering #4 correctly means any previously accumulated points get saved.
