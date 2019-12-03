@@ -24,4 +24,4 @@ Correct answers are marked via comment in the code.
 
 <img src='./Images/INSTRUCTIONS.PNG'>
 <img src='./Images/QUESTIONS.PNG'>
-<img src='./Images/BRONZE.PNG'>
+<img src='./Images/SILVER.PNG'>
