@@ -16,7 +16,7 @@ Correct answers are marked via comment in the code.
 
 - The code makes use of the **.386 assembly directive** that allows X86 type code jumps; eliminating the nuisance of the -127/+127 jumps permitted by default.
 
-- The argument **USE16** is a DOSBOX specific parameter than allows one to use both 36 bit conditions in a 16/8bit environment. As such, I did not have to resort to using the e-[ax] registers. The caveat here is that this is a command that can only work with the DOSBOX emulator environment; using the physical implementation, it will no doubt work differently.
+- The argument **USE16**  is a DOSBOX specific parameter than allows one to use both 36 bit conditions in a 16/8bit environment. As such, I did not have to resort to using the e-[ax] registers. The caveat here is that this is a command that can only work with the DOSBOX emulator environment; using the physical implementation, it will no doubt work differently.
 
 - Due to the nature of handling video modes in the DOSBOX emulator, certain graphics may appear distorted if the emulator is run beside a graphics accelerated program. However, merely re-running the .exe again will fix these issues, should they arise.
 
